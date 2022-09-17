@@ -1,0 +1,27 @@
+html {
+    margin: 20px;
+}
+
+.error img {
+    width: 100%;
+    height: 100%;
+}
+
+.boton {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+
+.boton a {
+    text-decoration: none;
+}
+
+.boton button {
+    background-color: black;
+}
+
+a {
+    color:darkorange;
+}
+
